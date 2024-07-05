@@ -1,8 +1,10 @@
-aiohttp
-requests
-pystyle
-websockets
-emoji
+asyncio
+pynput
+cryptography
 tasksio
-aioconsole
-httpx
+colorama
+requests
+selenium
+pycryptodome
+pycryptodomex
+crypto
