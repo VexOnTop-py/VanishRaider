@@ -1,0 +1,36 @@
+ALL COMMON PROBLEMS WILL GO HERE WITH A FIX.
+
+Instant closing - help 1.
+If the tool instantly closes, then do this
+
+1. open terminal
+
+2. cd C:\Users\uruser\Downloads\VanishRaider-main\VanishRaider-main
+replace uruser with ur actual pc username
+
+3. type Vanish.exe
+
+it shouldnt instantly close it should tell u the error, if you know the error then fix it. if you don't contact @.cix2 on discord.
+
+Token format - help 2.
+due to some people not knowing what the the token format is. they put it in the wrong format. and the tool doesnt work if thats the case this is the format
+
+example token
+example token
+example token
+etc
+
+stuck at scraping members - help 3.
+Sometimes it gets stuck at scraping members heres what you can do
+
+all tokens must be in the server
+you need to clear file (tokens.txt) and put tokens in the format (help 2 if you dont know format)
+you need 4-5 tokens (depends on how big server is)
+and channel must be viewable for tokens
+
+Tokens - help 4
+As of right now this tool only supports MT tokens soon it will support NZ & ODY tokens and others
+
+
+more help?
+if you need more help open a ticket in our discord server --> https://discord.gg/Mv4YQAK8F2 (Vanity -> discord.gg/vanishgg <-)

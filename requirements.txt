@@ -1,0 +1,8 @@
+aiohttp
+requests
+pystyle
+websockets
+emoji
+tasksio
+aioconsole
+httpx
